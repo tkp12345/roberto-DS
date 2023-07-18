@@ -1,0 +1,12 @@
+.button{
+    color:red;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.primary {background-color: #1ea7fd}
+.secondary {background-color: #e7fdd8}
+.success {background-color: #4CAF50}
+.danger {background-color: #f44336}
